@@ -4,27 +4,27 @@ Date:
 Project: 
 Group's repository: 
 
-
+Yihang Huang 
 
 What is something you learned by reviewing this group's project?
 
  
-
+I learned how to make a game in this style
 In what ways does this game reflect the theme?
 
- 
+ It shows viruses.
 
 What is something you saw in this group's project that you would like to apply to your own future games?
 
- 
+ Different types of music
 
 What suggestions would you have for this group to improve the game?
-
+Maybe make the character move a little slower. But it was fine.
  
 
 Was there anything in the GDScript that was confusing to you? If so, what?
 
- 
+ No
 
 Is it clear that every group member participated?
 
